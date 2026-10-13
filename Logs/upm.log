@@ -1,0 +1,70 @@
+[2026-10-13T19:39:43.427Z][INFO] Command-line: /home/euclide/Unity/Hub/Editor/6000.6.5f1/Editor/Data/Resources/PackageManager/Server/UnityPackageManager server -s 19210 --ipc-path /tmp/Unity-Upm-19210.sock -l 2 --log-file '/home/euclide/MANGO SEASON/Logs/upm.log'
+[2026-10-13T19:39:43.478Z][INFO] IPC server started (IPC path=/tmp/Unity-Upm-19210.sock).
+[2026-10-13T19:39:43.479Z][INFO] Hint: To connect to this UPM instance, launch Unity with the command-line parameter -upmIpcPath Upm-19210.
+[2026-10-13T19:39:46.508Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-10-13T19:39:46.543Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-10-13T19:39:47.004Z][INFO] project:list-packages --> 200 (496 ms)
+[2026-10-13T19:39:51.419Z][INFO] project:list-packages --> 200 (4875 ms)
+[2026-10-13T19:39:51.650Z][INFO] config:project:get-registries <-- Request received
+params: {}
+[2026-10-13T19:39:51.658Z][INFO] config:project:get-registries --> 200 (8 ms)
+[2026-10-13T19:39:51.660Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-10-13T19:39:51.874Z][INFO] project:list-packages --> 200 (214 ms)
+[2026-10-13T19:39:58.258Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-10-13T19:39:58.417Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-10-13T19:39:58.535Z][INFO] project:list-packages --> 200 (277 ms)
+[2026-10-13T19:39:58.689Z][INFO] project:list-packages --> 200 (272 ms)
+[2026-10-13T19:39:59.035Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-10-13T19:39:59.260Z][INFO] project:list-packages --> 200 (226 ms)
+[2026-10-13T19:39:59.320Z][INFO] config:project:get-registries <-- Request received
+params: {}
+[2026-10-13T19:39:59.332Z][INFO] config:project:get-registries --> 200 (12 ms)
+[2026-10-13T19:40:07.208Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-10-13T19:40:07.532Z][INFO] project:list-packages --> 200 (324 ms)
+[2026-10-13T19:40:12.977Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-10-13T19:40:13.173Z][INFO] project:list-packages --> 200 (196 ms)
+[2026-10-13T19:47:45.888Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-10-13T19:47:46.222Z][INFO] project:list-packages --> 200 (334 ms)
+[2026-10-13T19:47:46.915Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-10-13T19:47:47.188Z][INFO] config:project:get-registries <-- Request received
+params: {}
+[2026-10-13T19:47:47.198Z][INFO] project:list-packages --> 200 (283 ms)
+[2026-10-13T19:47:47.206Z][INFO] config:project:get-registries --> 200 (18 ms)
+[2026-10-13T20:20:15.388Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-10-13T20:20:17.395Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-10-13T20:20:20.388Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-10-13T20:20:24.404Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-10-13T20:20:25.403Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-10-13T20:20:26.405Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-10-13T20:20:29.485Z][INFO] project:list-packages --> 200 (9097 ms)
+[2026-10-13T20:20:29.486Z][INFO] project:list-packages --> 200 (12091 ms)
+[2026-10-13T20:20:29.488Z][INFO] project:list-packages --> 200 (14100 ms)
+[2026-10-13T20:20:29.489Z][INFO] project:list-packages --> 200 (5085 ms)
+[2026-10-13T20:20:29.490Z][INFO] project:list-packages --> 200 (4087 ms)
+[2026-10-13T20:20:29.492Z][INFO] project:list-packages --> 200 (3087 ms)
+[2026-10-13T20:33:49.358Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-10-13T20:33:49.476Z][INFO] project:list-packages --> 200 (118 ms)
+[2026-10-13T20:33:49.714Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-10-13T20:33:49.815Z][INFO] config:project:get-registries <-- Request received
+params: {}
+[2026-10-13T20:33:49.819Z][INFO] project:list-packages --> 200 (105 ms)
+[2026-10-13T20:33:49.822Z][INFO] config:project:get-registries --> 200 (7 ms)
+[2026-10-13T20:44:48.430Z][INFO] Received shutdown request (SIGINT), shutting down Unity Package Manager
