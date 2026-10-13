@@ -1,1 +1,0 @@
-{"status":"Valid","reason":"Signature is ok","isLegacy":false,"attestation":{"version":1,"format":"archive","integrity":"sha256-/YHpgwVrX/YxmAJ+BocpJ6fULJxOf6Gbhe9rET7zaoI=","packageName":"com.unity.ai.navigation","packageVersion":"2.0.15","publishingChannel":"unity","entitlementKeys":[],"artifactType":"upmPackage"}}
